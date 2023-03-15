@@ -1,13 +1,21 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Postgraduate Diploma of Science, Geospatial Sciences
+  uni: Ulster University
+  year: 2017 &mdash; 2018
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: 'Distinction'
+  summary: Focused on satellite imagery and geo-data analysis; secondary focus was in biodiversity management plans
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Postgraduate Certificate of Science, Environmental Science
+  uni: University College Dublin
+  year: 2015 &mdash; 2016
+  awards:
+    - award: '3.8'
+  summary: Focused on environmental genetics and freshwater ecology
+
+- degree: Bachelor of Arts, German
+  uni: Auburn University
+  year: 2005 &mdash; 2009
+  awards:
+    - award: '3.4'
+  summary: Focused on philology, economics, abd rhetorical theory

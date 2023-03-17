@@ -7,19 +7,19 @@
 - company: Magnolia International
   position: Technical Writer
   duration: July, 2020 &mdash; Jan, 2022
-  summary: test
+  summary: <p>I primarily led the documentation migration from Confluence to docs-as-code from the POC stage all the way through implementation and development. Other responsibilities included:</p><ul><li>Writing for the legacy cloud documentation team.</li><li>Writing for enterprise and incubator module documentation such as SSO.</li><li>Initiating the documentation for the PaaS offering including internal and external sites for developer docs and external docs.</li><li>Delivering bespoke (ad-hoc) sites for internal stakeholders primarily with Antora and Netlify.</li><li>Working with a variety of stakeholders to deliver on-time release notes.</li></ul>
 
 - company: Tango Telecom (now CSG)
   position: Lead Technical Writer
   duration: July, 2016 &mdash; July, 2020
-  summary: test
+  summary: I wrote documentation for telecommunications software. This included service description documents, CDRs, REST and SOAP API docs, configuration guides, and statistic guides. This was mainly for SPCM and Policy services, but it also included custom offerings around SMS and data monetisation.
 
 - company: Education First
   position: Regional Academic Coordinator
   duration: April, 2015 &mdash; May, 2016
-  summary: test
+  summary: <p>I was the academic and incoming coordinator for exchange students studying in Ireland. Duties included:</p> <ul><li>Liaising with origin country placement specialists.</li><li>Managing a set of regional coordinators within Ireland for students.</li><li>Handling immigration and academic issues throughout the year.</li><li>Using open source GIS (QGIS) to optimise student placement considering a variety of variables.</li><li>Writing tutorials and guides for coordinators to successfully implement program plans.</li></ul>
 
 - company: iQuate
   position: Technical Writer
   duration: April, 2014 &mdash; April, 2015
-  summary: test
+  summary: I wrote end user and developer guides for a network inventory tool mainly focused on solving audit issues for SQL and Oracle databases. This included testing the software, delivering demos, and working on a sprint basis to deliver documentation alongside releases.

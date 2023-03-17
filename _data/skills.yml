@@ -1,12 +1,22 @@
 # Skills
-# Organizational leadership
+
 - skill: Technical Writing * DocOps
-  description: I have been a technical writer for over 10 years. I specialise in migrations, setting up documentation sites and pipelines, and increasing developer contributions. 
+  description: <p><strong>12 years</strong></p> I have been a technical writer for over 10 years. I specialise in migrations, setting up documentation sites and pipelines, and increasing developer contributions. 
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy.
+- skill: Antora/Asciidoc
+  description: <p><strong>8 years</strong></p> I am an advanced user of asciidoc/asciidoctor/antora. This includes setup and optimal usage for contributing writers and developers.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Modular documentation
+  description: <p><strong>8 years</strong></p> I believe in single sourcing documentation and building it in a way where content is most reusable. I typically follow Red Hat's modular documentation approach.
+
+- skill: Git
+  description: <p><strong>8 years</strong></p> I am an advanced git user as part of our docs-as-code workflow.
+
+- skill: Agile
+  description: <p><strong>8 years</strong></p> I am well-versed in agile development including being a Confluence/Jira administrator. I also have experience migrating in and out of Confluence as well as managing users within Atlassian products.
+
+- skill: Light frontend development
+  description: <p><strong>6 years</strong></p> I am proficient in basic frontend skills needed for designing and modifying static sites as well as simple frontend projects. This includes HTML, CSS, JavaScript, JQuery, Handlebars, and yaml-based light development.
+
+- skill: Other relevant skills with approximate years of usage/experience
+  description: <ul><li><p><strong>10 years</strong> Markdown/static site generators</p></li><li><p><strong>8 years</strong> Swagger/OpenAPI</p></li><li><p><strong>5 years</strong> Docker</p></li><li><p><strong>5 years</strong> SQL/PostgreSQL</p></li><li><p><strong>5 years</strong> Geospatial (ESRI/QGIS)</p></li><li><p><strong>4 years</strong> Scripting (python/bash)</p></li></ul>

@@ -1,13 +1,18 @@
 # Projects
 
+- project: Magnolia Documentation migration
+  role: Migration coordinator
+  duration: 2020 &mdash; 2021
+  description: I led the migration from Confluence to docs-as-code including setting up pipeline(s), converting content, first drafting the UI, integrating search, and writing contribution and local build guidelines.
+
 - project: Native Woodland Trust
   role: Volunteer
   duration: 2013 &mdash; present
-  # url: "#"
+  url: https://www.nativewoodlandtrust.ie/
   description: I assist on projects mainly on preserving riparian zones and planting native trees.
 
 - project: Debezium
   role: Technical Writing contributor
   duration: 2018
-  # url: "#"
+  url: https://debezium.io/
   description: I helped write the SQL connector documentation while working on open source projects with Red Hat.

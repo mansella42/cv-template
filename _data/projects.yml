@@ -1,9 +1,9 @@
 # Projects
 
-- project: Magnolia Documentation migration
-  role: Migration coordinator
-  duration: 2020 &mdash; 2021
-  description: I led the migration from Confluence to docs-as-code including setting up pipeline(s), converting content, first drafting the UI, integrating search, and writing contribution and local build guidelines.
+# - project: Magnolia Documentation migration
+#   role: Migration coordinator
+#   duration: 2020 &mdash; 2021
+#   description: I led the migration from Confluence to docs-as-code including setting up pipeline(s), converting content, first drafting the UI, integrating search, and writing contribution and local build guidelines.
 
 - project: Native Woodland Trust
   role: Volunteer

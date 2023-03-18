@@ -18,5 +18,8 @@
 - skill: Light frontend development
   description: <p><strong>6 years</strong></p> I am proficient in basic frontend skills needed for designing and modifying static sites as well as simple frontend projects. This includes HTML, CSS, JavaScript, JQuery, Handlebars, and yaml-based light development.
 
+- skill: Adobe Suite
+  description: <p><strong>6 years</strong></p> I have used Adobe Creative Suite for numerous technical writing projects including PhotoShop, Illustrator, and InDesign.
+
 - skill: Other relevant skills with approximate years of usage/experience
-  description: <ul><li><p><strong>10 years</strong> Markdown/static site generators</p></li><li><p><strong>8 years</strong> Swagger/OpenAPI</p></li><li><p><strong>5 years</strong> Docker</p></li><li><p><strong>5 years</strong> SQL/PostgreSQL</p></li><li><p><strong>5 years</strong> Geospatial (ESRI/QGIS)</p></li><li><p><strong>4 years</strong> Scripting (python/bash)</p></li></ul>
+  description: <ul><li><p><strong>10 years</strong> Markdown/static site generators</p></li><li><p><strong>8 years</strong> Swagger/OpenAPI</p></li><li><p><strong>6 years</strong> CI/CD (e.g., Jenkins)</p></li><li><p><strong>5 years</strong> SQL/PostgreSQL</p></li><li><p><strong>5 years</strong> Geospatial (ESRI/QGIS)</p></li><li><p><strong>4 years</strong> Scripting (python/bash)</p></li></ul>

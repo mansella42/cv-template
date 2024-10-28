@@ -231,11 +231,19 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Alex Mansell <span style="font-weight: bold;">2023</span></a></p>
+        <p class="footer-line">Alex Mansell <span style="font-weight: bold;" id="current-year">2023</span></a></p>
       </footer>
 
     </div>
 
+    <script>
+      // Get the current year
+      const currentYear = new Date().getFullYear();
+      
+      // Display it in the span with id "current-year"
+      document.getElementById("current-year").textContent = currentYear;
+  </script>
+  
   </body>
 
 </html>
